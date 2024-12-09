@@ -1,4 +1,4 @@
-# <div align="center">TS-Python-Base-Course-Public</div>
+# <div align="center">TS-Python-Base-Course</div>
 
 Welcome to the **TS Python Base Course**!
 This repository contains materials, exercises, and examples to help you start learning Python programming. You will learn the basics of Python, including how to write simple programs and understand basic concepts. By the end of this course, you will have a solid foundation to start coding on your own.
