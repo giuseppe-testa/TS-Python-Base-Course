@@ -101,31 +101,26 @@ You will not need Python installed on your machine. But, if you are courious, be
 
 ## Course Content
 
-#### Day 1
+
 | Time          | Topic                                | Description                          |
 |---------------|--------------------------------------|--------------------------------------------------|
-| **9:30**   | Welcome & Setup                     | Introduction and environment setup.   |
-| **9:45**   | Introduction to the Python Language  | What is Python, its features, and why it's popular. |
-| **10:00**  | Installing Python and an IDE         | Guide to installing Python and setting up an IDE.     |
-| **10:15**  | Basic Data Types and Variables       | Understanding Python data types (int, floats, str, and bool) and variables. |
-| **10:45**  | Basic Python Syntax                  | Writing Python code: syntax, indentation, and structure. |
-| **11:15**  | Break                                | Relax and recharge.              |
-| **11:30**  | Operators                            | Arithmetic, logical, and comparison operators in Python. |
-| **12:00**  | Conditional Statements and Loops     | If-else, for, while, range, map, filter, ecc. |
-| **12:30**  | Data Structures                      | Lists, Tuples, Set and Dictionaries. |
-
-#### Day 2
-
-
-| Time          | Topic                                | Description                          |
-|---------------|--------------------------------------|--------------------------------------|
-| **9:30**      | Introduction to Object-Oriented Programming (OOP) | Overview of OOP.        |
-| **9:45**     | Objects in Python                   | Introduction to classes and objects in Python. |
-| **10:15**     | Functions                | Learn the fundamentals of functions. |
-| **10:45**      | OOP Principles                      | Encapsulation, inheritance, polymorphism, and abstraction. |
-| **11:15**     | Break                               | Relax and recharge.                 |
-| **11:30**     | Methods                 | Class and instance methods. |
-| **12:00**     | Lab                                 | Hands-on session. |
+| **10:00**     | Welcome & Setup                     | Introduction and environment setup.   |
+| **10:15**     | Introduction to the Python Language  | What is Python, its features, and why it's popular. |
+| **BONUS**     | Installing Python and an IDE         | Guide to installing Python and setting up an IDE.     |
+| **10:30**     | 1. Basic Data Types and Variables       | Understanding Python data types and variables. |
+| **11:00**     | 2. Basic Python Syntax                  | Writing Python code: syntax, indentation, and structure. |
+| **11:25**     | Break                                | Relax and recharge.              |
+| **11:35**     | 3. Operators                            | Arithmetic, logical, and comparison operators in Python. |
+| **12:00**     | 4. Conditional Statements and Loops     | If-else, for, while, range, map, filter, ecc. |
+| **12:30**     | 5. Data Structures                      | Lists, Tuples, Set and Dictionaries. |
+| **13:00**     | Lunch                      |  |
+| **14:00**     | 6. Introduction to Object-Oriented Programming (OOP) | Overview of OOP.        |
+| **14:45**     | Objects in Python                   | Introduction to classes and objects in Python. |
+| **15:15**     | Functions                | Learn the fundamentals of functions. |
+| **15:35**     | Break                               | Relax and recharge.                 |
+| **15:45**     | OOP Principles                      | Encapsulation, inheritance, polymorphism, and abstraction.|
+| **16:15**     | Methods                 | Class and instance methods. |
+| **16:45**     | Lab                                 | Hands-on session. |
 
 
 ---
