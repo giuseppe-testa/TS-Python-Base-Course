@@ -21,11 +21,7 @@ This is an introductory Python course aimed at providing a solid foundation in p
 - Object-Oriented Programming
 - Intro to external libraries (e.g., `requests`, `pandas`, etc.)
 
-## 🚀 Getting Started
-
-To get started with any edition:
-
-# 💻 Using GitHub Codespaces
+## 💻 Using GitHub Codespaces
 
 You can run this course directly in your browser using [GitHub Codespaces](https://github.com/features/codespaces). This is a great way to avoid local setup and get started immediately.
 
